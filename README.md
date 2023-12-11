@@ -1,4 +1,5 @@
-# ckks_bfv_ImgFHE
+# CKKS与BFV算法的图片同态加密、密态检索与同态解密
+## Homomorphic Encryption, Ciphertext Retrieval, and Homomorphic Decryption of Images using CKKS and BFV Algorithms
 
 本项目基于[TenSEAL](https://github.com/OpenMined/TenSEAL)库实现，是《数据安全与隐私保护》课程Project，内容是比较不同全同态加密算法的效率。
 由于是课程作业性质，这里的重点放在了运行效率的比较，没有将server端和client段做严谨区分，context的公私钥分离也略显潦草，仅供参考。
